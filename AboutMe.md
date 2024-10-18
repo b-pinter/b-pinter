@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @b-pinter
+- Hi, I’m Brady!
 - He/Him
+- Age : 20
 
 - Junior Undergrad Student, Belmont University
 - Majoring in Data Science, Minors in Business Systems and Communications
