@@ -1,14 +1,14 @@
-- Hi, I’m Brady!
-- He/Him
-- Age : 21
+Hi, I’m Brady! 👋
 
-- Senior Undergrad Student, Belmont University
-- Majoring in Data Science, Minors in Business Systems and Communications
-- I am interested in machine learning techniques, AI development and application, and bayesian statistics for sports analytics!
+I am senior undergraduate student at Belmont University majoring in Data Science with Minors in Business Systems and Communications. I am interesting in topics like
+- Machine Learning
+- AI Development and Applications
+- Bayesian Statistics
+- Data Engineering
 
-Current Projects:
-- Development of a audio generation and cleaning program using AI techniques for class credit.
-- Creation of a fullstack software for the prediction of UCL injuries for MLB pitchers using live information stretching back to 2020.
+I am currently working on a variety of projects as well.
+- Creation of a fullstack development for the prediction of UCL injuries for MLB pitchers using live-tracked pictches stretching back to 2020
+
 
 
 
