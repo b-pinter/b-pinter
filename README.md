@@ -14,7 +14,7 @@ Some of my other previous projects include
 - 2025 Leaderboard Contest - The creation of a AI model trained to generate numbers based on input from the MNIST dataset.
 - Hackathon for Social Justice - A one-day hackathon with the goal of finding ways to improve transit solutions in Nashville TN. At this hackathon, my team and I took home first place for our transit renewal solution.
 
-
+Check out two of my pinned repositories below! ⬇️
 
 
 <!---
