@@ -15,20 +15,22 @@ Hi, I'm Brady Pinter! 👋
 ##
 **🚀 Featured Projects**
 
-1. Tommy John Surgery Prediction Model
-A comprehensive fullstack application designed to predict UCL (ulnar collateral ligament) injuries in MLB pitchers using live-tracked pitch data from 2020 onwards. This project combines advanced machine learning techniques with real-time baseball analytics to help identify injury risk factors and potentially prevent career-threatening injuries.
-###
+
+Tommy John Surgery Prediction Model
+- A comprehensive fullstack application designed to predict UCL (ulnar collateral ligament) injuries in MLB pitchers using live-tracked pitch data from 2020 onwards. This project combines advanced machine learning techniques with real-time baseball analytics to help identify injury risk factors and potentially prevent career-threatening injuries.
+
 **Key Features:**
-###
+
 - Integration of live pitch-tracking data
 - Predictive modeling for injury risk assessment
 - Full-stack development with data pipeline automation
 
-2. COVID-19 Mortality Rate Prediction
-An independent research project analyzing the impact of socio-economic factors on COVID-19 mortality rates across the United States. Utilized multiple regression techniques including Least-Squares, Ridge, and Lasso Regression to identify key indicators affecting mortality outcomes.
-###
+
+COVID-19 Mortality Rate Prediction
+- An independent research project analyzing the impact of socio-economic factors on COVID-19 mortality rates across the United States. Utilized multiple regression techniques including Least-Squares, Ridge, and Lasso Regression to identify key indicators affecting mortality outcomes.
+
 **Key Insights:**
-###
+
 - Analyzed publicly available social and economic indicators
 - Compared performance of various regression models
 - Identified significant correlating factors in mortality rates.
